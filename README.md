@@ -31,6 +31,11 @@
 <img align="left" alt="Git" width="100px" src="https://www.testautomatisierung.org/wp-content/uploads/postman-705x431.jpg"  />
 <br /> <br />
 
+##### 1.3 DevOps
+<img align="left" alt="Ansible" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg"  />
+<img align="left" alt="Jenkins" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/434px-Jenkins_logo.svg.png"  />
+<br /> <br />
+
 
 #### 2. Personal projects 
 ##### 2.1 Data Analytics, Engineering and Visualisations
