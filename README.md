@@ -26,9 +26,10 @@
 <img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"  />
 
 <br /> <br />
-##### 1.2 Performance testing
+##### 1.2 Testing (from API to performance)
 <img align="left" alt="Gatling" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Gatling-logo.png" />
 <img align="left" alt="Scala" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Scala-full-color.svg" />
+<img align="left" alt="Postman" width="100px" src="https://www.vhv.rs/dpng/d/499-4996069_postman-logo-circle-hd-png-download.png" />
 <br /> <br />
 
 #### 2. Personal projects 
