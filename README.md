@@ -10,9 +10,9 @@
 - 💬 Ask me about ... programming, creative coding, data science, (digital) art
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I speak 3 languages and understand 2 more
--- proficient in English and German
--- native Serbian 
--- elementary level of French and Spanish. 
+ - proficient in English and German
+ - native Serbian 
+ - elementary level of French and Spanish. 
 
 ### Languages and Tools:
 
