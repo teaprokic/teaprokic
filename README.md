@@ -36,9 +36,9 @@
 ##### 1.3 DevOps
 <img align="left" alt="Ansible" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg"  />
 <img align="left" alt="Jenkins" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/434px-Jenkins_logo.svg.png"  />
-<br /> <br />
+<br /> <br /> <br /> <br />
 
 #### 2. Personal projects: 
 ##### 2.1 Data Analytics, Engineering and Visualisations
 <img align="left" alt="python" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<br /> <br />
+<br /> <br /> <br /> <br />
