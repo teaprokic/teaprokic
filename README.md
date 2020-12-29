@@ -1,8 +1,5 @@
 ### Hallo zusammen, ich bin Tea  👋
 
- <img alt="GIF" src="https://github.com/teaprokic/teaprokic/blob/main/Banner.png" />
- <p><a href="https://www.tensorflow.org/tutorials/generative/style_transfer" title="Neural Transfer Style">Neural Transfer Style</a> applied on a photo of wonderful Killesberg park, as part of a Udacity project I did in 2018 </p> 
-
 ## I'm a software engineer and visual artist 
 - 🔭 I'm working on showcasing my data science, creative AI and data visualisation projects. Stay tuned if you are interested!
 - 🌱 I'm currently levelling up my skills in Docker and Ansible.
