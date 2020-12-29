@@ -6,7 +6,7 @@
 ## I'm a software engineer and visual artist 
 - 🔭 I'm working on showcasing my data science and creative data visualisation projects. Stay tuned if you are interested!
 - 🌱 I'm currently levelling up my skills in Docker and Ansible.
-- 👯 Connecting with and exchanging knowledge and experiences with people with similar passions. 
+- 👯 Connecting and exchanging knowledge and experiences with people with similar passions. 
 - 💬 Ask me about ... programming, creative coding, data science, (digital) art. 
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I speak 3 languages and understand 2 more
