@@ -4,7 +4,6 @@
 
 
 ## I'm a software engineer and visual artist 
-- ✍ You can find my projects here [portfolio] (coming soon)
 - 🔭 I'm working on showcasing my data science and creative data visualisation projects. Stay tuned if you share the same interests!
 - 🌱 I'm currently levelling up my skills in Docker and Ansible.
 - 👯 I’m looking to collaborate on open source
