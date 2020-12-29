@@ -4,14 +4,14 @@
  <p><a href="https://www.tensorflow.org/tutorials/generative/style_transfer" title="Neural Transfer Style">Neural Transfer Style</a> applied on a photo of wonderful Killesberg park, Germany </p> 
 
 ## I'm a software engineer and visual artist 
-- 🔭 I'm working on showcasing my data science and creative data visualisation projects. Stay tuned if you share the same interests!
+- 🔭 I'm working on showcasing my data science and creative data visualisation projects. Stay tuned if you are interested!
 - 🌱 I'm currently levelling up my skills in Docker and Ansible.
-- 👯 Connecting with and exchanging knowledge and experiences with people with similar interests
-- 💬 Ask me about ... programming, creative coding, data science, (digital) art
+- 👯 Connecting with and exchanging knowledge and experiences with people with similar passions. 
+- 💬 Ask me about ... programming, creative coding, data science, (digital) art. 
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I speak 3 languages and understand 2 more
-  - proficient in English and German
-  - native Serbian 
+  - proficient in English and German,
+  - native Serbian,
   - elementary level of French and Spanish. 
 
 ### Languages and Tools:
