@@ -24,10 +24,15 @@
  <a href="https://dotnet.microsoft.com/download/dotnet-core">
    <img align="left" alt=".NET Core" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" />
  </a>
- <img align="left" alt="Visual Studio" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" />
- <img align="left" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
- <img align="left" alt="Docker" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
-
+ <a href="https://visualstudio.microsoft.com/vs/">
+  <img align="left" alt="Visual Studio" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" />
+ </a>
+ <a href="https://code.visualstudio.com/">
+    <img align="left" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+ </a>
+ <a href=" https://www.docker.com/products">
+  <img align="left" alt="Docker" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
+ </a>
 </p>
 
 
