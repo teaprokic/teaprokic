@@ -19,23 +19,10 @@
 #### 1. Professional experience: 
 
 ##### 1.2 Software development
- [<img align="left" alt=".NET Core" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" />](https://dotnet.microsoft.com/download/dotnet-core)
- <p>
- 
- <a href="">
-   
- </a>
- <a href="https://visualstudio.microsoft.com/vs/">
-  <img align="left" alt="Visual Studio" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" />
- </a>
- <a href="https://code.visualstudio.com/">
-    <img align="left" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
- </a>
-  <a href="https://www.docker.com/products/">
-    <img align="left" alt="Docker" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
- </a>
-</p>
-
+  [<img align="left" alt=".NET Core" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" />](https://dotnet.microsoft.com/download/dotnet-core)
+  [<img align="left" alt="Visual Studio" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" />](https://visualstudio.microsoft.com/vs/)
+  [<img align="left" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/)
+   [<img align="left" alt="Docker" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />](https://www.docker.com/products/)
 
 <br /> <br />
 
@@ -47,14 +34,8 @@
 <br /> <br />
 
 ##### 1.3 DevOps
-<p>
-  <a href="https://www.ansible.com/">
-    <img align="left" alt="Ansible" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg"  />
-  </a>
-  <a href="https://www.jenkins.io/">
-    <img align="left" alt="Jenkins" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/434px-Jenkins_logo.svg.png"  />
- </a>
-</p>
+ [<img align="left" alt="Ansible" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg" />](https://www.ansible.com/)
+ [<img align="left" alt="Jenkins" width="50px" src=https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/434px-Jenkins_logo.svg.png" />](https://www.jenkins.io/)
 
 <br /> <br /> <br /> <br />
 
