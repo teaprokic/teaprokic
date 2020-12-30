@@ -30,9 +30,12 @@
  <br/> <br/> 
 
 ##### 1.2 DevOps
- [<img align="left" alt="Azure DevOps" width="200px" src="https://logodix.com/logo/636467.png"/>](https://azure.microsoft.com/services/devops/)
+ [<img align="left" alt="Azure DevOps" width="150px" src="https://logodix.com/logo/636467.png"/>](https://azure.microsoft.com/services/devops/)
  [<img align="left" alt="Ansible" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg" />](https://www.ansible.com/)
  [<img align="left" alt="Jenkins" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/434px-Jenkins_logo.svg.png" />](https://www.jenkins.io/)
+ [<img align="left" alt="Packer" width="150px" src="https://www.packer.io/img/logo-hashicorp.svg" />](https://www.packer.io/)
+ [<img align="left" alt="Terraform" width="150px" src="https://www.terraform.io/assets/images/logo-text-8c3ba8a6.svg" />](https://www.terraform.io/)
+
  <br/> <br/> <br/> <br/> <br/>
 
 #### 2. Personal projects: 
