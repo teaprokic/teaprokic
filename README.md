@@ -29,9 +29,9 @@
 
 ##### 1.2 Testing (from API to performance)
 
+[<img align="left" alt="Postman" width="100px" src="https://www.testautomatisierung.org/wp-content/uploads/postman-705x431.jpg" />](https://www.postman.com/)
 [<img align="left" alt="Gatling" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Gatling-logo.png" />](https://gatling.io/)
 [<img align="left" alt="Scala" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Scala-full-color.svg" />](https://www.scala-lang.org/)
-[<img align="left" alt="Postman" width="100px" src="https://www.testautomatisierung.org/wp-content/uploads/postman-705x431.jpg" />](https://www.postman.com/)
 
 <br /> <br />
 
