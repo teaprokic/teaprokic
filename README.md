@@ -27,7 +27,7 @@
 
 <br /> <br />
 
-##### 1.2 Testing (from API to performance)
+##### 1.2 Testing
 
 [<img align="left" alt="Postman" width="100px" src="https://www.testautomatisierung.org/wp-content/uploads/postman-705x431.jpg" />](https://www.postman.com/)
 [<img align="left" alt="Gatling" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Gatling-logo.png" />](https://gatling.io/)
@@ -36,7 +36,7 @@
 <br /> <br />
 
 ##### 1.3 DevOps
-
+ [<img align="left" alt="Azure DevOps" width="200px" src="https://logodix.com/logo/636467.png" />](https://azure.microsoft.com/svghandler/devops-azure-devops-services/)
  [<img align="left" alt="Ansible" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg" />](https://www.ansible.com/)
  [<img align="left" alt="Jenkins" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/434px-Jenkins_logo.svg.png" />](https://www.jenkins.io/)
 
@@ -46,6 +46,8 @@
 ##### 2.1 Data Analytics, Engineering and Visualisations
 [<img align="left" alt="python" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />](https://docs.python.org/)
 [<img align="left" alt="Jupyter Notebooks" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" />](https://jupyter.org/)
+
+
 
 
 
