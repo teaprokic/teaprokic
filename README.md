@@ -35,7 +35,7 @@
 
 ##### 1.3 DevOps
  [<img align="left" alt="Ansible" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg" />](https://www.ansible.com/)
- [<img align="left" alt="Jenkins" width="50px" src=https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/434px-Jenkins_logo.svg.png" />](https://www.jenkins.io/)
+ [<img align="left" alt="Jenkins" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/434px-Jenkins_logo.svg.png" />](https://www.jenkins.io/)
 
 <br /> <br /> <br /> <br />
 
