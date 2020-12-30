@@ -46,8 +46,15 @@
 <br /> <br />
 
 ##### 1.3 DevOps
-<img align="left" alt="Ansible" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg"  />
-<img align="left" alt="Jenkins" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/434px-Jenkins_logo.svg.png"  />
+<p>
+  <a href="https://www.ansible.com/">
+    <img align="left" alt="Ansible" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg"  />
+  </a>
+  <a href="https://www.jenkins.io/">
+    <img align="left" alt="Jenkins" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/434px-Jenkins_logo.svg.png"  />
+ </a>
+</p>
+
 <br /> <br /> <br /> <br />
 
 #### 2. Personal projects: 
