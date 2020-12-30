@@ -19,10 +19,11 @@
 #### 1. Professional experience: 
 
 ##### 1.2 Software development
-
+ [<img align="left" alt=".NET Core" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" />](https://dotnet.microsoft.com/download/dotnet-core)
  <p>
- <a href="https://dotnet.microsoft.com/download/dotnet-core">
-   <img align="left" alt=".NET Core" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" />
+ 
+ <a href="">
+   
  </a>
  <a href="https://visualstudio.microsoft.com/vs/">
   <img align="left" alt="Visual Studio" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" />
